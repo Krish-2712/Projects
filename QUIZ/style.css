@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Poppins:wght@300;400&display=swap');
+
+
+.title{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 670px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.box{
+    border: 2px solid black;
+    height: 300px;
+    width: 500px;
+    margin-left: 490px;
+    margin-bottom: 250px;
+    background-color: rgb(149, 231, 203);
+}
+
+
+.ques{
+    margin-left: 40px;
+    margin-top: 80px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.previous{
+    
+    margin-top: 60px;
+    margin-left: 10px;
+    margin-right: 340px;
+    color: white;
+    background-color: rgb(68, 68, 225);
+}
+
+.next{
+    color: white;
+    background-color: rgb(68, 68, 225);
+}
+
+.choices{
+    margin-left: 45px;
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
